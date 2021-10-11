@@ -1,0 +1,12 @@
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe.config
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.pdb
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csproj.AssemblyReference.cache
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.fLogin.resources
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.Properties.Resources.resources
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csproj.GenerateResource.cache
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.exe
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.pdb
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.fMain.resources
+D:\WinForm\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.fThongTinTaiKhoan.resources
